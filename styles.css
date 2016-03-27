@@ -1,0 +1,69 @@
+body, div, p, h1, h2, h3, h4, h5, h6, ul, ol, li, img,a, form, nav {
+	margin: 0;
+	padding: 0;
+	border:0;
+
+}
+
+body {
+	text-align: center;
+	
+} 
+
+nav {
+	height: 60px;
+	background-color: white;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+	
+
+}
+
+
+#hero {
+	float:left;
+	padding-left: 17px;
+	padding-top: 15px;
+	color: #114FD9;
+	letter-spacing: 4px;
+}
+
+a {
+	padding-right: 15px;
+	padding-top: 20px;
+	float: right;
+}
+
+header {
+	height: 250px;
+	background: radial-gradient(circle, #0F46BF, #114FD9, #1357F0);
+	color: white;
+	width: 100%;
+	
+	position: fixed;
+	top: 60px;
+	
+}
+
+#header {
+	margin-top: 75px;
+}
+
+
+#content{
+	width: 100%;
+	position: relative;
+	top: 310px;
+	background: #ebebeb;
+	height: 1500px;
+	padding-top: 20px;
+}
+
+p {
+	padding-bottom: 10px;
+}
+
+
+
+
